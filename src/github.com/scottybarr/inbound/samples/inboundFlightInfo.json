@@ -1,0 +1,24 @@
+{
+    "InboundFlightInfoResult":{
+        "faFlightID":"FLG3572-1423808955-airline-0537",
+        "ident":"FLG3572",
+        "aircrafttype":"CRJ9",
+        "filed_ete":"02:55:00",
+        "filed_time":1423808955,
+        "filed_departuretime":1424034900,
+        "filed_airspeed_kts":454,
+        "filed_airspeed_mach":"",
+        "filed_altitude":320,
+        "route":"CRP CWK J25 ACT J25 FUZ J25 DSM FOD TWOLF2",
+        "actualdeparturetime":1424037600,
+        "estimatedarrivaltime":1424048340,
+        "actualarrivaltime":1424048340,
+        "diverted":"",
+        "origin":"KHRL",
+        "destination":"KMSP",
+        "originName":"",
+        "originCity":"",
+        "destinationName":"",
+        "destinationCity":""
+    }
+}
