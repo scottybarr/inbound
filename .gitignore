@@ -22,3 +22,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+src/github.com/golang/
+src/github.com/julienschmidt/
+src/github.com/nsf/
+src/golang.org/
+
+samples
